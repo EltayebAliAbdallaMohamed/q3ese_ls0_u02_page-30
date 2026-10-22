@@ -1,0 +1,192 @@
+{
+  "title": "Q3ESE_LS0_U02_Page_30_Ex_B",
+  "sentences": [
+    {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "clean",
+      "definition": "antonym of dirty",
+      "english": "Mary doesn't like her school. The classrooms are always clean.",
+      "arabic": "ماري لا تعجبها مدرستها. الفصول الدراسية دائماً نظيفة.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "dirty",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "boring",
+      "definition": "antonym of interesting ",
+      "english": "I like my history class. It is very boring.",
+      "arabic": "أنا يعجبني  درس التاريخ الخاص بي. إنه ممل جداً.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "interesting",
+      "Image": ""
+    },
+     {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "interesting",
+      "definition": "antonym of boring",
+      "english": "I like my history class. It is very interesting.",
+      "arabic": "أنا يعجبني  درس التاريخ الخاص بي. إنه ممل جداً.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "boring",
+      "Image": ""
+    },
+     {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "strength",
+      "definition": "antonym of weakness",
+      "english": "One strength of my school is the library. It is very small.",
+      "arabic": "من نقاط القوة في مدرستي هي المكتبة. إنها صغيرة جدًا.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "weakness",
+      "Image": ""
+    },
+    {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "weakness",
+      "definition": "antonym of strength",
+      "english": "One weakness of my school is the library. It is very large.",
+      "arabic": "من نقاط القوة في مدرستي هي المكتبة. إنها صغيرة جدًا.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "strength",
+      "Image": ""
+    },
+    {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "safe",
+      "definition": "antonym of dangerous",
+      "english": "The school is in a safe part of town. Don't go out late at night.",
+      "arabic": "المدرسة في منطقة آمنة من المدينة. لا تخرج في وقت متأخر من الليل.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "dangerous",
+      "Image": ""
+    },
+    {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "dangerous",
+      "definition": "antonym of safe",
+      "english": "The school is in a dangerous part of town. Don't go out late at night.",
+      "arabic": "المدرسة في منطقة آمنة من المدينة. لا تخرج في وقت متأخر من الليل.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "safe",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "cheap",
+      "definition": "antonym of expensive",
+      "english": "My school costs a lot of money. It is very cheap.",
+      "arabic": "مدرستي تكلف الكثير من المال. إنها رخيصة جدًا.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "expensive",
+      "Image": ""
+    },
+     {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "expensive",
+      "definition": "antonym of cheap",
+      "english": "My school costs a lot of money. It is very expensive.",
+      "arabic": "مدرستي تكلف الكثير من المال. إنها رخيصة جدًا.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "cheap",
+      "Image": ""
+    },
+
+    {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "fail",
+      "definition": "antonym of succeed",
+      "english": "In a good school all the students fail.",
+      "arabic": "في مدرسة جيدة، جميع الطلاب يرسبون.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "succeed",
+      "Image": ""
+    },
+    {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "succeed",
+      "definition": "antonym of fail",
+      "english": "In a good school all the students succeed.",
+      "arabic": "في مدرسة جيدة، جميع الطلاب يرسبون.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "fail",
+      "Image": ""
+    },
+
+    
+        {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "off",
+      "definition": "antonym of on",
+      "english": "Sarah lɪvz off campus. Her dormitory is near the library.",
+      "arabic": "سارة تعيش خارج الحرم الجامعي. سكنها قريب من المكتبة.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "on",
+      "Image": ""
+    },
+       {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "on",
+      "definition": "antonym of off",
+      "english": "Sarah lɪvz off campus. Her dormitory is near the library.",
+      "arabic": "سارة تعيش خارج الحرم الجامعي. سكنها قريب من المكتبة.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "off",
+      "Image": ""
+    },
+     {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "hard",
+      "definition": "antonym of easy",
+      "english": "My math class is really easy. I don't know any of the answers.",
+      "arabic": "صف الرياضيات الخاص بي صعب جدًا. أنا أعرف كل الإجابات.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "easy",
+      "Image": ""
+    },
+     {
+      "speaker": "Change one word to make the statement true.",
+      "keyWord": "easy",
+      "definition": "antonym of hard",
+      "english": "My math class is really hard. I know all the answers.",
+      "arabic": "صف الرياضيات الخاص بي صعب جدًا. أنا أعرف كل الإجابات.",
+      "refer_to": "",
+      "back_to": "",
+      "audioQuestion": "True or false?",
+      "answer": "hard",
+      "Image": ""
+    }
+
+           
+  ]
+}
